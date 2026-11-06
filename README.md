@@ -1,5 +1,6 @@
 # Pokémon data capstone -  Atlas
 Ángel Francisco Hernández Valdez - A00839859
+Santiago Torres Torres Landa - A00573376
 
 
 FECHA: 06 de Noviembre de 2026
